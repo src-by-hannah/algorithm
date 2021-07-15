@@ -6,8 +6,16 @@
 
 : 작성 언어 - python
 
+<br><br>
+
 ### <b>1. 이론 정리</b>
 
 : 블로그 참조
 
 https://nyajjyang-portfolio.tistory.com/category/Study/about%20Algorithm
+
+<br>
+
+---
+<br>
+@src-by-hannah
